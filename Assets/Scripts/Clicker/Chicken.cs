@@ -1,40 +1,22 @@
-using System;
+using TMPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
 public class Chicken : MonoBehaviour, IPointerClickHandler
 {
-    [SerializeField] private LayerMask layerMask;
-    
-    // 1
-    private void OnMouseDown()
-    {
-        Debug.Log(gameObject.name + " clicked");
-    }
-    
-    private void Update()
-    {
-        // 2
-        if (Input.GetMouseButton(0))
-        {
-            // 3D Raycast
-            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-            if (Physics.Raycast(ray, out var hit, 100, layerMask) && hit.collider != null)
-            {
-                Debug.Log(gameObject.name + " clicked");
-            }
-            
-            // 2D Raycast
-            var worldPosition = Camera.main.WorldToScreenPoint(Input.mousePosition);
-            if (Physics2D.Raycast(worldPosition, Camera.main.transform.forward, layerMask))
-            {
-                Debug.Log(gameObject.name + " clicked");
-            }
-        }
-    }
+    [SerializeField] private ChickenData _data;
+    [SerializeField] private TextMeshProUGUI _goldText;
+    [SerializeField] private TextMeshProUGUI _eggText;
     
     public void OnPointerClick(PointerEventData eventData)
     {
-        Debug.Log(gameObject.name + " clicked");
+        _data.AddGold();
+        DisplayInfo();
+    }
+
+    private void DisplayInfo()
+    {
+        _goldText.SetText("Gold " +_data.gold);
+        _eggText.SetText("Egg " +_data.egg);
     }
 }

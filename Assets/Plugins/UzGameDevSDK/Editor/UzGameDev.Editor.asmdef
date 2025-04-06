@@ -1,0 +1,19 @@
+{
+    "name": "UzGameDev.Editor",
+    "rootNamespace": "UzGameDev",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:edd1eccde72f65e4da487c8371b3e2f0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

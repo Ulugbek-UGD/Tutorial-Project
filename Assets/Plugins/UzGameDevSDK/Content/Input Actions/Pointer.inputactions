@@ -1,0 +1,66 @@
+{
+    "name": "Pointer",
+    "maps": [
+        {
+            "name": "Main",
+            "id": "df70fa95-8a34-4494-b137-73ab6b9c7d37",
+            "actions": [
+                {
+                    "name": "Pointer Position",
+                    "type": "Value",
+                    "id": "45fbfef6-9759-404e-98ab-db65b1440849",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Pointer Primary Action",
+                    "type": "Button",
+                    "id": "66f9c956-6c57-4678-abf8-295ea346669c",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "0ef72ffb-f2cc-4044-9452-940d9b7c3e91",
+                    "path": "<Pointer>/{PrimaryAction}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Pointer",
+                    "action": "Pointer Primary Action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "76942871-547a-4317-9198-49a4898575bf",
+                    "path": "<Pointer>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Pointer",
+                    "action": "Pointer Position",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Pointer",
+            "bindingGroup": "Pointer",
+            "devices": [
+                {
+                    "devicePath": "<Pointer>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

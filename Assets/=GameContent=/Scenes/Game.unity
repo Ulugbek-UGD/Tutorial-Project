@@ -907,7 +907,7 @@ GameObject:
   - component: {fileID: 7075136229053544888}
   - component: {fileID: 5607287581969362020}
   - component: {fileID: 7075136229053544889}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: ATM
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -935,7 +935,7 @@ GameObject:
   - component: {fileID: 8234258300459095004}
   - component: {fileID: 6478955025460555885}
   - component: {fileID: 8234258300459095005}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Pretzel House Oven
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -971,7 +971,7 @@ GameObject:
   - component: {fileID: 3902131346709294637}
   - component: {fileID: 3973955895054708181}
   - component: {fileID: 3973955895054708182}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Pretzel House
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1073,7 +1073,7 @@ GameObject:
   - component: {fileID: 7014566539303510866}
   - component: {fileID: 2164904618581310555}
   - component: {fileID: 7014566539303510867}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Basket
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1264,7 +1264,7 @@ GameObject:
   - component: {fileID: 3646515728965132917}
   - component: {fileID: 1674072765845622934}
   - component: {fileID: 3646515728965132918}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Money
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1359,7 +1359,7 @@ GameObject:
   - component: {fileID: 3534276101421477852}
   - component: {fileID: 2523793937784769574}
   - component: {fileID: 3534276101421477853}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1387,7 +1387,7 @@ GameObject:
   - component: {fileID: 7179409216549447457}
   - component: {fileID: 2198455563072604852}
   - component: {fileID: 7179409216549447458}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Safe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2069,7 +2069,7 @@ GameObject:
   - component: {fileID: 5433711181428856597}
   - component: {fileID: 1365141153883760870}
   - component: {fileID: 7331767866906213174}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Coin Bank
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2116,7 +2116,7 @@ GameObject:
   - component: {fileID: 5729516271782115809}
   - component: {fileID: 6181563017636223349}
   - component: {fileID: 7416104906312592640}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Safe Door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2302,7 +2302,7 @@ GameObject:
   - component: {fileID: 8031525801841378677}
   - component: {fileID: 1167156040182963824}
   - component: {fileID: 8483384949841533843}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Bag Money
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2349,7 +2349,7 @@ GameObject:
   - component: {fileID: 870542263862141889}
   - component: {fileID: 7896377819319184312}
   - component: {fileID: 9038847685643785793}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Pretzel
   m_TagString: Untagged
   m_Icon: {fileID: 0}

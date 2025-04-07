@@ -8,8 +8,6 @@ namespace LastStandHeroes
     {
         [SerializeField] private InputActionAsset _inputActions;
         
-        [SerializeField] private LayerMask _layerMask;
-        
         private InputActionMap _inputMap;
         
         private static InputAction Click;
@@ -49,7 +47,7 @@ namespace LastStandHeroes
         {
             var rayOrigin = _camera.ScreenPointToRay(_pointerPosition);
             
-            if (Physics.Raycast(rayOrigin, out var hitInfo, _camera.farClipPlane, _layerMask))
+            if (Physics.Raycast(rayOrigin, out var hitInfo, _camera.farClipPlane))
             {
                 if (hitInfo.collider.TryGetComponent<ISelectable>(out var selectable))
                 {

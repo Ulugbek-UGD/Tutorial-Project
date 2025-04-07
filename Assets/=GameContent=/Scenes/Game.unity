@@ -132,8 +132,8 @@ GameObject:
   - component: {fileID: 2561194}
   - component: {fileID: 2561193}
   - component: {fileID: 2561192}
-  m_Layer: 6
-  m_Name: Cube
+  m_Layer: 0
+  m_Name: Farm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -233,12 +233,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2561191}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 9.82, y: 2.36, z: -9.88}
   m_LocalScale: {x: 5.1896, y: 5.1896, z: 5.1896}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 389754880}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &36884914
 GameObject:
@@ -460,6 +460,7 @@ Transform:
   - {fileID: 410087041}
   - {fileID: 36884915}
   - {fileID: 921674209}
+  - {fileID: 2561196}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &398628870
@@ -738,9 +739,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _inputActions: {fileID: -944628639613478452, guid: bbb2a65aa967adb43b62f69f9bbd6a7a, type: 3}
-  _layerMask:
-    serializedVersion: 2
-    m_Bits: 64
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -2398,4 +2396,3 @@ SceneRoots:
   - {fileID: 1691363973}
   - {fileID: 389754880}
   - {fileID: 398628874}
-  - {fileID: 2561196}

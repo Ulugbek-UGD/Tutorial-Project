@@ -5,122 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39745a64-28d4-46b1-a2ee-492984fc60eb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/PrimeTweenInstaller.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/PrimeTweenInstaller.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/internal.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/internal/PrimeTween.Installer.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/internal/PrimeTween.Installer.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/internal/PrimeTweenInstaller.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/internal/PrimeTweenInstaller.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/internal/com.kyrylokuzyk.primetween.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PrimeTween/internal/com.kyrylokuzyk.primetween.tgz.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Change Log.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Change Log.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Documentation.URL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Documentation.URL.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/AssemblyInfo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/BoolPref.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/BoolPref.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/Clipboard.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/Clipboard.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/DrawerState.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/DrawerState.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/Kybernetik.UltEvents.Editor.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/Kybernetik.UltEvents.Editor.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/MemberSelectionMenu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/MemberSelectionMenu.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/PersistentArgumentDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/PersistentArgumentDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/PersistentCallDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/PersistentCallDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/PickerMenu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/PickerMenu.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/Serialization.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/Serialization.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/SerializedPropertyContextMenu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/SerializedPropertyContextMenu.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/UltEventDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Editor/UltEventDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/License.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/License.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Read Me.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Read Me.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Event Holders.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Event Holders/CollisionEvents2D.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Event Holders/CollisionEvents2D.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Event Holders/CollisionEvents3D.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Event Holders/CollisionEvents3D.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Event Holders/DelayedUltEventHolder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Event Holders/DelayedUltEventHolder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Event Holders/LifeCycleEvents.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Event Holders/LifeCycleEvents.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Event Holders/TriggerEvents2D.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Event Holders/TriggerEvents2D.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Event Holders/TriggerEvents3D.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Event Holders/TriggerEvents3D.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Event Holders/UltEventHolder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Event Holders/UltEventHolder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Event Holders/UpdateEvents.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Event Holders/UpdateEvents.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Events.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Events/PersistentArgument.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Events/PersistentArgument.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Events/PersistentCall.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Events/PersistentCall.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Events/UltEvent0.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Events/UltEvent0.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Events/UltEvent1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Events/UltEvent1.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Events/UltEvent2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Events/UltEvent2.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Events/UltEvent3.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Events/UltEvent3.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Events/UltEvent4.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Events/UltEvent4.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Events/UltEventBase.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Events/UltEventBase.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Kybernetik.UltEvents.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Kybernetik.UltEvents.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/ArrayCache.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/ArrayCache.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/AssemblyInfo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/Benchmarks.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/Benchmarks/BenchmarkTestMethods.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/Benchmarks/BenchmarkTestMethods.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/Benchmarks/EnableBenchmark.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/Benchmarks/EnableBenchmark.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/Benchmarks/EnableBenchmarkUltEvent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/Benchmarks/EnableBenchmarkUltEvent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/Benchmarks/EnableBenchmarkUnityEvent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/Benchmarks/EnableBenchmarkUnityEvent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/Benchmarks/ResourceInstantiateBenchmark.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/Benchmarks/ResourceInstantiateBenchmark.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/Benchmarks/SimpleTimer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/Benchmarks/SimpleTimer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/Names.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/Names.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/Operators.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/Operators.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/ReflectionCache.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/ReflectionCache.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/UltEventUtils.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/UltEventUtils.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/UltEventsHelpUrlAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/UltEventsHelpUrlAttribute.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/UnityEventCompatibility.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Runtime/Utilities/UnityEventCompatibility.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Support.URL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/Support.URL.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/com.kybernetik.ultevents/package.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tutorial Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tutorial Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/=GameContent=/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/=GameContent=/Scenes/Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/=GameContent=/Scripts/Bank.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/=GameContent=/Scripts/Bank.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,18 +31,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Siyovush",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.37f1\Editor\Unity.exe" />
@@ -204,6 +91,7 @@
       <updated>1743857500072</updated>
       <workItem from="1743857502089" duration="3242000" />
       <workItem from="1743938187827" duration="1883000" />
+      <workItem from="1744045023791" duration="1851000" />
     </task>
     <servers />
   </component>
